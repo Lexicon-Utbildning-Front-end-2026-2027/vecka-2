@@ -4,6 +4,15 @@ Fokus för veckan - Från att få saker att "bara se bra ut på skärmen" till a
 
 ---
 
+## 🎯 Mål för veckan
+
+* Fortsätt med övningen med det som står under vecka 2 - fokus på ren, effektiv och tydlig kod
+
+## 📚 Material
+
+### 🛠️ Övningar
+* [Receptsidan](https://github.com/Lexicon-Utbildning-Front-end-2026-2027/vecka-1/blob/main/ovning-1.md)
+
 ## 📅 Måndag: CSS reset, enheter och lite typografi (R)
 
 Hur arbetar vi medvetet med både design och tillgänglighet. Kommer vår sida se lika bra ut när vi ställt in en större text pga nedsatt syn som den gör annars, eller går den sönder?
@@ -13,6 +22,7 @@ Hur arbetar vi medvetet med både design och tillgänglighet. Kommer vår sida s
 * Ren baseline - Förklara skillnaden mellan webbläsarens standardstilar och varför moderna projekt behöver en CSS reset.
 * Fatta medvetna beslut - När är rem bättre än px och vilka andra enheter ska jag välja mellan
 * Välja typsnittt - Grundläggande om typografi samt google fonts
+* Öva på att gör er receptsida mer genomtänkt och effektiv med bättre enheter, fonter och reset
 
 ### 📚 Material
 
