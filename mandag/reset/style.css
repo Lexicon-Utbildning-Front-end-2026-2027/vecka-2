@@ -1,64 +1,85 @@
 /* remove default spacing */
 /* force styling of type through styling, rather than elements */
 
-/* * {
+* {
   margin: 0;
   padding: 0;
   font: inherit;
-} */
+}
 
 /* makes sizing simpler */
 
-/* *,
-*::before,
-*::after {
+* {
   box-sizing: border-box;
-} */
+}
 
 /* min body height */
 
-/* body {
+body {
   min-height: 100vh;
-} */
+}
 
 /* responsive images/videos */
 
-/* img,
+img,
 picture,
 video,
 canvas,
 svg {
   display: block;
   max-width: 100%;
-} */
+}
 
 /* Additions */
 
 /* don't leave one single word hanging in paragraphs */
-/* p {
+p {
   text-wrap: pretty;
-} */
+  margin-block: 1em;
+}
 
 /* make the rows more balanced so the headings looks nicer */
-/* h1,
+h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
   text-wrap: balance;
+}
+
+/* h1::after {
+  content: "***";
 } */
 
 /* Remove list styles on ul, ol elements with a list role */
-/* ul[role="list"],
+ul[role="list"],
 ol[role="list"] {
   list-style: none;
-} */
+}
+
+/* Base styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
 
 /* Basic styles to show the examples */
 body {
-  border: 4px solid red; /* The red box is the actual body */
+  /* border: 4px solid red; */
   background-color: #e0f2fe; /* Light blue fills the viewport automatically */
+}
+
+p {
+  line-height: 1.25lh;
+}
+
+img {
+  width: 400px;
 }
 
 .fixed-box {
@@ -68,7 +89,6 @@ body {
   background: #ffd166;
 }
 
-.image-wrapper {
+/* .image-wrapper {
   background: #ef476f;
-  display: inline-block;
-}
+} */
