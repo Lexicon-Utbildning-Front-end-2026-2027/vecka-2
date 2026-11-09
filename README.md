@@ -22,7 +22,6 @@ Hur arbetar vi medvetet med både design och tillgänglighet. Kommer vår sida s
 * Ren baseline - Förklara skillnaden mellan webbläsarens standardstilar och varför moderna projekt behöver en CSS reset.
 * Fatta medvetna beslut - När är rem bättre än px och vilka andra enheter ska jag välja mellan
 * Välja typsnittt - Grundläggande om typografi samt google fonts
-* Öva på att gör er receptsida mer genomtänkt och effektiv med bättre enheter, fonter och reset
 
 ### 📚 Material
 
@@ -36,6 +35,9 @@ Hur arbetar vi medvetet med både design och tillgänglighet. Kommer vår sida s
 * [Josh W Comeau Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 * [Om olika enheter - whatunit](https://whatunit.com/)
 * [Andy Bell - A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+
+#### 🛠️ Övningar
+* Öva på att gör er receptsida mer genomtänkt och effektiv med bättre enheter, fonter och reset
 
 ---
 
@@ -90,6 +92,9 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv. Om vi läser v
 * [CUBE CSS](https://cube.fyi/)
 * [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 * [(mdn) Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
+
+#### 🛠️ Övningar
+* Gå in och redigera er receptsida med en bra och genomtänkt namngivning och kodstruktur
 
 ---
 
