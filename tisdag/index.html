@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DemoShop – CSS Selectors</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <a class="logo" href="#top">DemoShop</a>
+      <nav aria-label="Huvudnavigation">
+        <ul class="nav-list">
+          <li><a href="#products">Produkter</a></li>
+          <li><a href="#contact">Kontakt</a></li>
+          <li><a href="https://developer.mozilla.org/" target="_blank" rel="noopener noreferrer">Lär dig mer</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <h1 id="page-title">Våra produkter</h1>
+        <p>En enkel demosida för att utforska CSS-selektorer.</p>
+        <p class="hint">Vi kommer att ändra sidans utseende steg för steg.</p>
+        <p><a href="#" class="product-link">Visa Produkter</a></p>
+      </section>
+
+      <section id="products" aria-labelledby="products-title">
+        <h2 id="products-title">Produkter</h2>
+        <p>Fyra produkter att välja mellan.</p>
+        <div class="product-list">
+          <article class="card featured" data-category="accessories">
+            <span class="badge">Populär</span>
+            <h3>Produkt A</h3>
+            <p>En användbar produkt för vardagen.</p>
+            <p class="price">199 kr</p>
+            <button type="button" data-action="buy">Köp</button>
+          </article>
+          <article class="card" data-category="tech">
+            <h3>Produkt B</h3>
+            <p>En smart produkt med flera funktioner.</p>
+            <p class="price">299 kr</p>
+            <button type="button" data-action="buy">Köp</button>
+          </article>
+          <article class="card" data-category="accessories">
+            <h3>Produkt C</h3>
+            <p>En liten produkt med stor nytta.</p>
+            <p class="price">149 kr</p>
+            <button type="button" disabled>Köp (slutsåld)</button>
+          </article>
+          <article class="card" data-category="tech">
+            <span class="badge">Nyhet</span>
+            <h3>Produkt D</h3>
+            <p>En ny produkt i vårt sortiment.</p>
+            <p class="price">399 kr</p>
+            <button type="button" data-action="buy">Köp</button>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" aria-labelledby="contact-title">
+        <h2 id="contact-title">Kontakta oss</h2>
+        <p>Skicka ett meddelande via formuläret.</p>
+        <form action="#contact" method="get">
+          <div class="form-group">
+            <label for="name">Namn</label>
+            <input id="name" name="name" type="text" required autocomplete="name" />
+          </div>
+          <div class="form-group">
+            <label for="email">E-post</label>
+            <input id="email" name="email" type="email" required autocomplete="email" />
+          </div>
+          <div class="form-group checkbox-group">
+            <input id="newsletter" name="newsletter" type="checkbox" />
+            <label for="newsletter">Jag vill få nyhetsbrev</label>
+          </div>
+          <button type="submit">Skicka</button>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© DemoShop – en övningssida för CSS.</p>
+      <a href="#top">Till toppen</a>
+    </footer>
+  </body>
+</html>

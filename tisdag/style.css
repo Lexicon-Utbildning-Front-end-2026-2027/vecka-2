@@ -1,0 +1,116 @@
+/* DemoShop – start-CSS.
+   Endast grundläggande läsbarhet och layout.
+   Vi lägger till selektorerna tillsammans under föreläsningen. */
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  color: #222;
+  background: #fafafa;
+}
+
+.site-header,
+.site-footer {
+  padding: 16px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.site-footer {
+  margin-top: 40px;
+  border-top: 1px solid #ddd;
+  border-bottom: 0;
+}
+
+section {
+  margin-top: 32px;
+}
+
+.nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-left: 20px;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  padding: 16px;
+  border: 1px solid #ccc;
+  background: white;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.checkbox-group label {
+  display: inline;
+}
+
+input:not([type="checkbox"]) {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  max-width: 360px;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 16px;
+}
+
+/* ========================================
+   1. GRUNDLÄGGANDE SELEKTORER
+======================================== */
+
+
+/* ========================================
+   2. COMBINATORS OCH ATTRIBUT
+======================================== */
+
+
+/* ========================================
+   3. STRUKTURELLA PSEUDOKLASSER
+======================================== */
+
+
+/* ========================================
+   4. INTERAKTIVA PSEUDOKLASSER
+======================================== */
+
+
+/* ========================================
+   5. PSEUDO-ELEMENT
+======================================== */
+
+
+/* ========================================
+   6. MODERNA CSS-PSEUDOKLASSER
+======================================== */
+
+
+/* ========================================
+   7. Nesting och &
+======================================== */
+
+
+
+/* ========================================
+   8. SPECIFICITET OCH CASCADE
+======================================== */
+
+
+
