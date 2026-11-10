@@ -80,6 +80,7 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv. Om vi läser v
 * Använda variabler i CSS för att skapa struktur, modularitet och tydlighet
 * Skapa ett token baserat design system genom att använda variabler i CSS
 * Förstå principerna bakom namngivningskonventioner i CSS (BEM-CUBE-Utility-First/Tailwind)
+* Skriv hjälpsamma kommentarer, inte överflödiga
 
 ### 📚 Material
 
@@ -92,6 +93,8 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv. Om vi läser v
 * [CUBE CSS](https://cube.fyi/)
 * [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 * [(mdn) Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
+* [Beginner’s Guide to CSS Comments](https://zerotomastery.io/blog/css-comments/)
+* [The Art of Comments](https://css-tricks.com/the-art-of-comments/)
 
 #### 🛠️ Övningar
 * Gå in och redigera er receptsida med en bra och genomtänkt namngivning och kodstruktur
