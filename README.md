@@ -58,14 +58,13 @@ Behöver vi en klass för allt, eller kan vi använda relationer som has() eller
 #### 💻 E-Learning
 * [(YT Kevin Powell) is(), where(), has() explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 * [(YT Kevin Powell)  HTML & CSS for Absolute Beginners: Specificity](https://www.youtube.com/watch?v=LUDkXMXf3P8)
+* [(YT) Kevin Powell - Nesting CSS](https://www.youtube.com/watch?v=h4Xp1QgNkhU)
 
 #### 📃 Läsning
 * [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
 * [CSS Selectors](https://www.w3schools.com/CSSref/css_selectors.php)
 * [CSS Combinators](https://www.w3schools.com/CSSref/css_ref_combinators.php)
 * [(css-tricks) Specifics on CSS Specificity (frivillig)](https://css-tricks.com/specifics-on-css-specificity/)
-* [(mdn) Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
-* [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 
 #### 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
@@ -86,12 +85,13 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv. Om vi läser v
 
 #### 💻 E-Learning
 * [(Pluralsight) Clean Code and Accessibility](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
-* [(YT) Kevin Powell - Nesting CSS](https://www.youtube.com/watch?v=h4Xp1QgNkhU)
 
 #### 📃 Läsning
 * [Tailwind CSS - Styling with Utility Classes](https://tailwindcss.com/docs/styling-with-utility-classes)
 * [BEM.info](https://en.bem.info/methodology/css/)
 * [CUBE CSS](https://cube.fyi/)
+* [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
+* [(mdn) Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
 
 #### 🛠️ Övningar
 * Gå in och redigera er receptsida med en bra och genomtänkt namngivning och kodstruktur
