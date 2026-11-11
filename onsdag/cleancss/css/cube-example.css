@@ -24,6 +24,11 @@
   --clr-gray-500: dimgrey;
   --clr-gray-600: hsl(0, 0%, 38%);
 
+  --clr-blue-400: blue;
+
+  /* --clr-card:
+  --clr-card-accent: */
+
   /* spacings */
   --spacing-base: 0.25rem;
   --spacing-small: 0.5rem;
@@ -31,6 +36,9 @@
 
   /* sizes */
   --max-card-width: 70ch;
+
+  /* border */
+  --border-sm: 0.125rem solid var(--clr-gray-400);
 }
 
 /* === RESET === */
@@ -107,7 +115,15 @@ h4 {
   /* less line-height on headings to keep them more compact */
   /* usually 1.1 or maybe 1 depending on font choice */
   line-height: var(--lh-tight);
+
+  /* --_heading-color: #fefefe;
+  color: var(--_heading-color); */
 }
+
+/* variables can be overridden/inherited, so use this as an advantage */
+/* h3 {
+  --_heading-color: #504a4a;
+} */
 
 /* be careful with font-weights and be sure that the font supports the value you chose */
 strong {
@@ -200,7 +216,8 @@ i {
 
 .card {
   max-width: var(--max-card-width);
-  border: 0.125rem solid var(--clr-gray-400);
+  border: var(--border-sm);
+  /* border: 0.125rem solid var(--clr-gray-400); */
 
   header {
     border-bottom: 1px solid grey;
@@ -228,8 +245,8 @@ i {
   /* this will combine as .button:hover and .button:focus-visible in the browser */
   &:hover,
   &:focus-visible {
-    background-color: blue;
-    color: contrast-color(blue);
+    background-color: var(--clr-blue-400);
+    color: contrast-color(var(--clr-blue-400));
   }
 }
 
