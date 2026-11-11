@@ -105,6 +105,16 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv. Om vi läser v
 
 Eget arbete och med kod, e-learning och läsning. Se till att jobba mot veckans mål nedan när ni förbättrar receptsidan ytterligare. 
 
+**Parprogrammering för vissa grupper**
+
+> Vi hänger, kodar tillsammans, och svarar på frågor som vi har släpat på under veckan
+
+- Grupp #1 (09:30-10:30)
+- Grupp #2 (10:45-11:45)
+
+Att förbereda sig med:
+- Ladda ned VS-code tillägget: Live-Share
+
 ### 🎯 Mål för dagen
 
 * Inga hårdkodade färger (allt via CSS-variabler)
