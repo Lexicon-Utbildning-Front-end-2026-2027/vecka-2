@@ -105,7 +105,7 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv. Om vi läser v
 
 Eget arbete och med kod, e-learning och läsning. Se till att jobba mot veckans mål nedan när ni förbättrar receptsidan ytterligare. 
 
-**Parprogrammering för vissa grupper**
+### Grupprogrammering för vissa grupper
 
 > Vi hänger, kodar tillsammans, och svarar på frågor som vi har släpat på under veckan
 
@@ -114,6 +114,24 @@ Eget arbete och med kod, e-learning och läsning. Se till att jobba mot veckans 
 
 Att förbereda sig med:
 - Ladda ned VS-code tillägget: Live-Share
+
+### En fråga, per grupp, att tänka på inför fredagens kodsnack
+
+> Tanken är att vi ska bygga en komplett CSS-manual av era gemensamma svar
+
+- Grupp 1: Hur kan vi se till att rätt CSS-regel gäller utan att göra det svårt att ändra stilen senare?
+
+- Grupp 2: När är det bättre att styla utifrån var ett element ligger i HTML-strukturen, och när är det bättre att styla den genom att sätta en egen, självständig, CSS-klass/id?
+
+- Grupp 3: Hur kan vi strukturera vår CSS så att den blir lättare att förstå, utan att göra det onödigt krångligt?
+
+- Grupp 4: När är det fördelaktigt att återanvända samma CSS-regel eller variabel på flera ställen, och när kan det vara mindre bra?
+
+- Grupp 5: När behöver vi styra storlekar exakt, och när bör innehållet och det tillgängliga utrymmet bestämma det?
+
+- Grupp 6: Hur kan våra designval göra sidan lättare eller svårare att använda för olika personer, och hur kan vi anpassa designen för att försöka inkludera alla?
+
+- Grupp 7: När är en liten lokal ändring rätt lösning, och när bör vi tänka på att ändra vår CSS struktur istället?
 
 ### 🎯 Mål för dagen
 
