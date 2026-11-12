@@ -146,13 +146,15 @@ Att förbereda sig med:
 ## 📅 Fredag: Kodsnack (P)
 
 ### Kodsnack i grupp
-* Vi granskar varandras kod. Tillsammans identifierar vi dolda fällor och diskuterar hur det kan skrivas enligt modern standard.
 
-* Diskutera veckans frågor: Vad kändes ovant? Vilka enheter vållade problem? Formulera tillsammans 3-5 principer alla i gruppen tycker definierar "ren CSS". 
+* Behandla det nya ni har implementerat på er receptsajt, det som ni lärt er under veckan. Upplägget ska vara likt som förra veckan: dela er kod, välj ut kodblock som ni tyckte var extra intressanta, och försök bygga en diskussion kring det.
 
-* Samling - Vi sammanfattar gruppernas principer för bra kod inför kommande veckors arbete.
+* Svara, på ett så utförligt sätt som möjligt, på er tilldelade gruppfråga (gruppfrågan hittas ovan under rubriken: Torsdag).
+  * Skriv ned svaret i textform. Försök att strukturera upp era tankar så bra som möjligt.
 
-
+* Samling - Vi sammanfattar gruppernas principer till en gemensam AI-skill.
+  * Varje grupp utser en person som muntligt går igenom hur gruppen tänkt kring svaret.
+  * Svaret bifogas som text i chatten.
 
 ---
 
