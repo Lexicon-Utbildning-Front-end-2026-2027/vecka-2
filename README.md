@@ -155,6 +155,11 @@ Att förbereda sig med:
 * Samling - Vi sammanfattar gruppernas principer till en gemensam AI-skill.
   * Varje grupp utser en person som muntligt går igenom hur gruppen tänkt kring svaret.
   * Svaret bifogas som text i chatten.
+ 
+ ### 🎯 Mål för dagen
+
+* Hitta fram till gemensamma CSS best-practices
+* Förstå fördelen med att spara ens kunskap för att återanvändas i något som en AI-skill
 
 ---
 
